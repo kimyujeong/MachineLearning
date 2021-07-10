@@ -5,8 +5,10 @@ Create and learn a model that classifies 10 classes in CIFAR-10 dataset
 
 ## Model
 
-* Used ResNet18 for final model
+
 <img src="https://user-images.githubusercontent.com/26537107/125151151-09b74000-e180-11eb-9832-1f5c964ee8fa.png" width="1246" higeht="328">
+
+* Used ResNet18 for final model
 
 
 ```python
